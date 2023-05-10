@@ -1,0 +1,17 @@
+.box{
+    width: 200px;
+    height: 200px; 
+    background-color: brown; 
+    border: 2px solid blue;
+  } 
+  .btn{
+    background-color: blue; 
+    padding: 10px;color:white; 
+    border-radius: 100px;
+  }
+  #div1{
+    width: 125px;
+    height: 75px;
+    background-color: aqua;
+    
+  }
